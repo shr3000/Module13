@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š†«‡ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(·ìãÓøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó»Üßýÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(œ°íÊþÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(•—…²ÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(õš‡àúÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(»ì‡úùÿÿÿÿ
+H
+java:S1068
+"-Remove this unused "TEST_POST" private field.(ÞÛ¯ôþÿÿÿÿ

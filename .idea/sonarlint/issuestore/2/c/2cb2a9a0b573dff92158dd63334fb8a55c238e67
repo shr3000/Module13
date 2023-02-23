@@ -1,0 +1,20 @@
+
+]
+java:S1192S"GDefine a constant instead of duplicating this literal "%s%d%s" 3 times.(∞≠∂É
+b
+java:S11925"MDefine a constant instead of duplicating this literal "Content-type" 6 times.(≠Íæ3
+f
+java:S11925"QDefine a constant instead of duplicating this literal "application/json" 6 times.(≠Íæ3
+q
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(Ω∫Ã5
+w
+java:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "list".(Ä„◊‘¯ˇˇˇˇ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ññê€
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(à©¬∏¯ˇˇˇˇ
+T
+java:S1858N">"body" returns a string, there's no need to call "toString()".(ÈÑÂ∞
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ÛØÚÌ
+T
+java:S1858Y">"body" returns a string, there's no need to call "toString()".(ÈÑÂ∞
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(Çö¿Ω
